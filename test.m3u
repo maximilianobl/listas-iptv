@@ -668,3 +668,26 @@ http://jabawalkies.club:8080/stratusUSA9l0iIlIilo0O/n1ZTh6pBn3/60230
 http://jabawalkies.club:8080/stratusUSA9l0iIlIilo0O/n1ZTh6pBn3/60231
 #EXTINF:-1,Latino: Hossana Vision ©
 http://jabawalkies.club:8080/stratusUSA9l0iIlIilo0O/n1ZTh6pBn3/60232
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nación+ (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",A24 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="General",AVC HD (720p)
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="News",Crónica TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1 tvg-id="RadioMitre.ar" tvg-logo="https://i.imgur.com/uvck4Vj.png" group-title="Undefined",Radio Mitre (720p) [Not 24/7]
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="T5Satelital.ar" tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="Undefined",T5 Satelital (720p)
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
+#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Entertainment",Vorterix (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
